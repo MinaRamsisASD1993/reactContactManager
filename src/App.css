@@ -1,0 +1,19 @@
+.fa-angle-down {
+  margin-left: 10px;
+  font-size: 26px;
+  cursor: pointer;
+}
+
+.fa-pencil {
+  margin-left: 10px;
+  float: right;
+  font-size: 24px;
+  cursor: pointer;
+}
+
+.fa-trash {
+  float: right;
+  font-size: 24px;
+  color: red;
+  cursor: pointer;
+}
